@@ -1,4 +1,12 @@
 ### Hi there 👋
+[![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536)](https://github.com/jiyeon2536/github-readme-stats)  
+[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)  
+
+![Static Badge](https://img.shields.io/badge/python-skyblue?logo=python)
+
+SSAFY 10기  
+[티스토리 블로그](https://timedilation.tistory.com)
+
 
 <!--
 **jiyeon2536/jiyeon2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
