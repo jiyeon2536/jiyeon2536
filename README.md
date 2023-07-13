@@ -2,7 +2,7 @@
 
 ### 🌊 annyeonghaseyo 🐋
 
-**SSAFY 10기** 이야기는 [티스토리 블로그](https://timedilation.tistory.com)에서 만나요
+**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요
 
 ---
 [![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=neon)](https://github.com/jiyeon2536/github-readme-stats)  
