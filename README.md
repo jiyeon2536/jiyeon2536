@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/python-skyblue?logo=python)
 
 
-
+  
 
 <!--
 **jiyeon2536/jiyeon2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
