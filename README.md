@@ -8,12 +8,11 @@
 현재는 SSAFY 에서 첫 걸음마를 떼고 있습니다.  
 **SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요 :)
 
-hi there ✨  
-you've reached Jiyeon's github profile :)  
-i am currently taking a python track at **Samsung Software Academy For Youth**   
-hoping to be a web full-stack engineer.  
-yet a beginner am i, soon to be a strong problem solver. :mechanical_arm:  
-you might as well check my story at [my blog](https://timedilation.tistory.com).  
+Hi there ✨  
+You've reached Jiyeon's github profile :)  
+I am currently taking a python track at **Samsung Software Academy For Youth**, hoping to be a web full-stack engineer.    
+Yet a beginner am I, soon to be a strong problem solver. :mechanical_arm:    
+You might as well check my story at [my blog](https://timedilation.tistory.com).  
 
 
 ---
