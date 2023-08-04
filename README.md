@@ -3,8 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JIYE🧊N&fontSize=90)  
   
 ### 🌊 annyeonghaseyo 🐋
+안녕하세요? 개발자를 꿈꾸는 영문학도 김지연입니다.  
+꾸준히 자신있게, 침착하게 공부를 이어가고 있습니다.  
+현재는 SSAFY 에서 첫 걸음마를 떼고 있습니다.  
+**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요 :)
 
-**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요
+hi there ✨
+you've reached Jiyeon's github profile :)
+i am currently taking a python track at **Samsung Software Academy For Youth** 
+hoping to be a web full-stack engineer.
+yet a beginner am i, soon to be a strong problem solver. :mechanical_arm:
+you might as well check my story at [my blog](https://timedilation.tistory.com).
 
 ---
 [![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=neon)](https://github.com/jiyeon2536/github-readme-stats)  
