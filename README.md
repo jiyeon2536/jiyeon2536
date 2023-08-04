@@ -1,11 +1,10 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JIYE🧊N&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🌊annyeonghaseyo🐋&fontSize=50)  
   
-### 🌊 annyeonghaseyo 🐋
 안녕하세요? 개발자를 꿈꾸는 영문학도 김지연입니다.  
 꾸준히 자신있게, 침착하게 공부를 이어가고 있습니다.  
-현재는 SSAFY 에서 첫 걸음마를 떼고 있습니다.  
+현재는 SSAFY 에서 python track을 이수하며 첫 걸음마를 떼고 있습니다.  
 **SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요 :)
 
 Hi there ✨  
