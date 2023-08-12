@@ -11,7 +11,7 @@ Hi there ✨
 You've reached Jiyeon's Github profile :)  
 I am currently taking a python track at **Samsung Software Academy For Youth**, hoping to be a web full-stack engineer.    
 Yet a beginner am I, soon to be a strong problem solver. :mechanical_arm:    
-You might as well check my story at [my blog](https://timedilation.tistory.com).  
+You might as well check my story at [the blog](https://timedilation.tistory.com).  
 
 
 ---
