@@ -16,8 +16,7 @@ You might as well check my story at [the blog](https://timedilation.tistory.com)
 
 ---
 [![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=neon)](https://github.com/jiyeon2536/github-readme-stats)  
-[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)  
-![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=dark)  
+[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/) ![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=dark)  
 
 
 ![Static Badge](https://img.shields.io/badge/python-skyblue?logo=python)
