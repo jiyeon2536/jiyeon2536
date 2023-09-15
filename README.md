@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🌊annyeonghaseyo🐋&fontSize=50)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🌊참새하는코딩🐋&fontSize=50)  
   
 안녕하세요? 개발자를 꿈꾸는 영문학도 김지연입니다.  
 꾸준히 자신있게, 침착하게 공부를 이어가고 있습니다.  
