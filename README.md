@@ -2,10 +2,15 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🌊JIYEON_KIM🐋&fontSize=50)  
   
-안녕하세요? 개발자를 꿈꾸는 영문학도 김지연입니다.  
-꾸준히 자신있게, 침착하게 공부를 이어가고 있습니다.  
-현재는 SSAFY 에서 python track을 이수하며 첫 걸음마를 떼고 있습니다.  
-**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나요 :)
+안녕하세요? 김지연입니다.  
+웹 풀스택 개발자를 목표로 하고 있습니다.  
+용감하게 도전하는 태도가 저를 여기까지 이끌었습니다.  
+특유의 침착함과 대담함으로, 문제를 해결해나가는 데에 집중하고자 합니다.  
+현재는 SSAFY 에서 python track을 이수하고 있습니다.  
+**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나보세요. :)  
+제 성장을 지켜보고 응원해주셔서 감사합니다.  
+그만큼 저도 당신에게 도움이 되고 싶습니다.   
+
 
 Hi there ✨  
 You've reached Jiyeon's Github profile :)  
