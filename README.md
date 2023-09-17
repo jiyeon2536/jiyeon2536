@@ -6,8 +6,7 @@
 웹 풀스택 개발자를 목표로 하고 있습니다.  
 현재는 SSAFY 에서 python track을 이수하고 있습니다.  
 **SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나보세요. :)  
-제 성장을 지켜보고 응원해주셔서 감사합니다.  
-그만큼 저도 당신에게 도움이 되고 싶습니다.   
+
 
 
 Hi there ✨  
