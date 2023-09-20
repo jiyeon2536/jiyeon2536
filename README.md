@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=🌷%20welcome%20🌷&desc=JIYEON%20KIM's%20profile&descAlign=50&descSize=15&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome<3&desc=JIYEON%20KIM's%20profile&descAlign=50&descSize=15&fontSize=60)
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
