@@ -1,7 +1,7 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🌊JIYEON_KIM🐋&fontSize=50)  
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&desc=JIYEON%20KIM's%20profile&descAlign=50&descSize=15&fontSize=60)
+
 안녕하세요? 김지연입니다.  
 웹 풀스택 개발자를 목표로 하고 있습니다.  
 현재는 SSAFY 에서 python track을 이수하고 있습니다.  
@@ -26,6 +26,7 @@ You might as well check my story at [the blog](https://timedilation.tistory.com)
 
   
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 <!--
 **jiyeon2536/jiyeon2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
