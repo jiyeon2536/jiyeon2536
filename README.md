@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 안녕하세요? 김지연입니다.  
-웹 풀스택 개발자를 목표로 하고 있습니다.  
+웹 프론트엔드 개발자를 목표로 하고 있습니다.  
 현재는 SSAFY 에서 python track을 이수하고 있습니다.  
 **SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나보세요. :)  
 
@@ -17,7 +17,7 @@
 
 Hi there ✨  
 You've reached Jiyeon's Github profile :)  
-I am currently taking a python track at **Samsung Software Academy For Youth**, hoping to be a web full-stack engineer.    
+I am currently taking a python track at **Samsung Software Academy For Youth**, hoping to be a web front-end engineer.    
 Yet a beginner am I, soon to be a strong problem solver. :mechanical_arm:    
 You might as well check my story at [the blog](https://timedilation.tistory.com).  
 
