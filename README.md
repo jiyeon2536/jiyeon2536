@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 안녕하세요? 김지연입니다.  
@@ -32,11 +31,11 @@ You might as well check my story at [my blog](https://timedilation.tistory.com).
 
 
 ## 🍋 statistics 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)     
 [![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=neon)](https://github.com/jiyeon2536/github-readme-stats)  
 
 
-## 🍋 algorithm problem solving
-[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 
