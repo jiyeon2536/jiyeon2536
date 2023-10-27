@@ -8,7 +8,7 @@
 안녕하세요? 김지연입니다.  
 웹 프론트엔드 개발자를 목표로 하고 있습니다.  
 현재는 SSAFY 에서 python track을 이수하고 있습니다.  
-**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)에서 만나보세요. :)  
+**SSAFY 10기** 이야기는 [블로그](https://timedilation.tistory.com)와 [인스타그램](https://www.instagram.com/gonggumee/)에서 만나보세요. :)  
 
 
 Hi there ✨  
