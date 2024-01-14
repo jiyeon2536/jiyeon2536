@@ -4,12 +4,11 @@
 
 ## ⋆˙⟡ about me ⟡˙⋆
 
-Hi there.  
+Hi there :D  
 You have reached Jiyeon's Github profile.  
 I am currently taking a python track at **Samsung Software Academy For Youth**,   
 hoping to be a web front-end developer.    
-(also am looking for someone who knows how to change   
-the colours of texts manually on those logos down below.)
+
 
     
 
