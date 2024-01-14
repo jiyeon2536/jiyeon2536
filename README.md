@@ -13,9 +13,9 @@ hoping to be a web front-end developer.
     
 
 ## ⋆˙⟡ skills ⟡˙⋆
-<img src="https://img.shields.io/badge/TypeScript-ffff8b?style=for-the-badge&logo=typescript&logoColor=black"><img src="https://img.shields.io/badge/JavaScript-c6da52?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/PYTHON-8db600?style=for-the-badge&logo=python&logoColor=black">  
-<img src="https://img.shields.io/badge/React-c6da52?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Next.js-8db600?style=for-the-badge&logo=next.js&logoColor=black"><img src="https://img.shields.io/badge/Vue.js-588100?style=for-the-badge&logo=vue.js&logoColor=black"><img src="https://img.shields.io/badge/django-255000?style=for-the-badge&logo=django&logoColor=white">  
-<img src="https://img.shields.io/badge/HTML5-8db600?style=for-the-badge&logo=html5&logoColor=black"><img src="https://img.shields.io/badge/CSS3-588100?style=for-the-badge&logo=css3&logoColor=black"><img src="https://img.shields.io/badge/SASS-255000?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-ffff8b?style=for-the-badge&logo=typescript&logoColor=black"><img src="https://img.shields.io/badge/JavaScript-c6da52?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/PYTHON-8db600?style=for-the-badge&logo=python&logoColor=white">  
+<img src="https://img.shields.io/badge/React-c6da52?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Next.js-8db600?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Vue.js-588100?style=for-the-badge&logo=vue.js&logoColor=white"><img src="https://img.shields.io/badge/django-255000?style=for-the-badge&logo=django&logoColor=white">  
+<img src="https://img.shields.io/badge/HTML5-8db600?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-588100?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/SASS-255000?style=for-the-badge&logo=sass&logoColor=white">
 
 
 
