@@ -3,11 +3,9 @@
 
 
 ## ⋆˙⟡ about me ⟡˙⋆
-
-Hi there :D  
-You have reached Jiyeon's Github profile.  
-I am currently taking a python track at **Samsung Software Academy For Youth**,   
-hoping to be a web front-end developer.    
+경희대학교 영어학부 영문학사 (2022.02.16)
+삼성청년SW아카데미(SSAFY) 10기 (2023.07.05-present)
+SSAFYcial 기자단 10기 최우수기자
 
 
     
