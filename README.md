@@ -3,9 +3,7 @@
 
 
 ## ⋆˙⟡ about me ⟡˙⋆
-- 경희대학교 영어학부 영문학 전공  
-- 삼성청년SW아카데미(SSAFY) 10기   
-- SSAFYcial 기자단 10기 최우수기자    
+SSAFY 10th
 
 
     
