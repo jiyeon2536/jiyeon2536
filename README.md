@@ -3,7 +3,7 @@
 
 
 ## ⋆˙⟡ about me ⟡˙⋆
-SSAFY 10th (07.2022 ~ present)
+SSAFY 10th (07.2023 ~ present)
 
 
     
