@@ -21,7 +21,6 @@ SSAFY 10th (07.2023 ~ present)
 
 ## ⋆˙⟡ stats ⟡˙⋆
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=gotham)  
 [![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=gotham)](https://github.com/jiyeon2536/github-readme-stats)  
 
 
@@ -33,6 +32,7 @@ SSAFY 10th (07.2023 ~ present)
 <!--
 <div align=center></div>
 
+![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=gotham)  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
