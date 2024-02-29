@@ -28,7 +28,7 @@
       <td>SSAFY 공통 프로젝트 우수상 🥈</td>
     </tr>
 	  <tr>
-      <td>종합 금융 서비스 <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4"><b>CAPYBARA 카피바라</b> </a></td>
+      <td>종합 금융 서비스    <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4"><b>CAPYBARA 카피바라</b> </a></td>
       <td>프론트엔드 개발</td>
       <td>2023.11.15 ~ 11.24</td>
       <td>SSAFY 관통 프로젝트 우수상 🥈</td>
