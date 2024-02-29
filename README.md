@@ -1,11 +1,15 @@
 ### 안녕하세요, 프론트엔드 개발자 김지연입니다 🥝
 
+1. **합목적적인** 서비스를 만드는 데에 관심 있습니다.
+2. ‘무엇을’ 보다도 **‘어떻게’** 에 힘을 싣습니다.
+3. **디테일**하게 솔직하고자 합니다.
+4. 나의 효율보다 **전체의 효율**을 중요시 여깁니다.
 <a href="mailto:jiyeon2536@khu.ac.kr" style="text-decoration: none; color: inherit;">
 	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
 </a>
-
-
-
+<a href="https://bustling-trade-bc8.notion.site/frontend-developer-f3babfab4e964102a29f92444fb7b473?pvs=4" style="text-decoration: none; color: inherit;">
+	<img src="https://img.shields.io/badge/-Notion-202020?style=for-the-badge&logo=notion" height="25" />
+</a>
 
 
 #
@@ -52,7 +56,7 @@
 				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
 				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 				<img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=html5" height="25" />
-				<img src="https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3" height="25" />
+				<img src="https://img.shields.io/badge/-CSS3-202020?style=for-the-badge&logo=css3" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -69,6 +73,7 @@
 			<td>
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
 			  <img src="https://img.shields.io/badge/-Vue.js-202020?style=for-the-badge&logo=vue.js" height="25" />
+			<img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" />
 			  <img src="https://img.shields.io/badge/-React_Query-202020?style=for-the-badge&logo=reactquery" height="25" />
 			<img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
 			</td>
@@ -79,15 +84,16 @@
 <table>
 	<thead>
 		<tr border: none;>
-			<td><b>학습한 라이브러리 & 프레임워크</b></td>
+			<td><b>학습 중인 라이브러리 & 프레임워크</b></td>
 		</tr>
 	</thead>
  <tbody>
 	 <tr>
 		<td>
+			<img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
+			<img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="25" />
 		  <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="25" />
-		<img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
-
+		<img src="https://img.shields.io/badge/-Zustand-202020?style=for-the-badge&logo=zustand" height="25" />
 		</td>
 	 </tr>
  </tbody>
