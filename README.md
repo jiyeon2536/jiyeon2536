@@ -28,7 +28,7 @@
       <td>SSAFY 공통 프로젝트 우수상 🥈</td>
     </tr>
 	  <tr>
-      <td>종합 금융 서비스    <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4"><b>CAPYBARA 카피바라</b> </a></td>
+      <td>종합 금융 서비스 🐂 <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4"><b> CAPYBARA 카피바라 </b> </a></td>
       <td>프론트엔드 개발</td>
       <td>2023.11.15 ~ 11.24</td>
       <td>SSAFY 관통 프로젝트 우수상 🥈</td>
@@ -50,10 +50,9 @@
 			<td>
 				<img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" />
 				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
+				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 				<img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=html5" height="25" />
 				<img src="https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3" height="25" />
-				<img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
-				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -62,7 +61,7 @@
 <table>
 	<thead>
 		<tr border: none;>
-		<td><b>자주 활용하는 라이브러리 & 프레임워크</b></td>
+		<td><b>프로젝트에 사용한 라이브러리 & 프레임워크</b></td>
 		</tr>
 	</thead>
 	 <tbody>
@@ -71,7 +70,7 @@
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
 			  <img src="https://img.shields.io/badge/-Vue.js-202020?style=for-the-badge&logo=vue.js" height="25" />
 			  <img src="https://img.shields.io/badge/-React_Query-202020?style=for-the-badge&logo=reactquery" height="25" />
-			  <img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
+			<img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -80,13 +79,15 @@
 <table>
 	<thead>
 		<tr border: none;>
-			<td><b>활용 가능한 라이브러리 & 프레임워크</b></td>
+			<td><b>학습한 라이브러리 & 프레임워크</b></td>
 		</tr>
 	</thead>
  <tbody>
 	 <tr>
 		<td>
 		  <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="25" />
+		<img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
+
 		</td>
 	 </tr>
  </tbody>
@@ -132,16 +133,6 @@
 </a>
 </p>
   
-
-
-
-
-
-
-
-
-
-
 
 
 
