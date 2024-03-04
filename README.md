@@ -94,7 +94,6 @@
 	 <tr>
 		<td>
 			<img src="https://img.shields.io/badge/-Next.js-202020?style=for-the-badge&logo=next.js" height="25" />
-			<img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="25" />
 		  <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="25" />
 		<img src="https://img.shields.io/badge/-Zustand-202020?style=for-the-badge&logo=zustand" height="25" />
 		</td>
