@@ -1,12 +1,6 @@
 
 ### 안녕하세요, 프론트엔드 개발자 김지연입니다.
 
-<ol>
-<li> 합목적적인 서비스를 만드는 데에 관심 있습니다.</li>
-<li> ‘무엇을’보다도 ‘어떻게’에 힘을 싣습니다.</li>
-<li> 디테일하게 솔직하고자 합니다.</li>
-<li> 나의 효율보다 전체의 효율을 중요시 여깁니다.</li>
-</ol>
 <a href="mailto:jiyeon2536@khu.ac.kr" style="text-decoration: none; color: inherit;">
 	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
 </a>
