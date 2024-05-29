@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=header&Align=50&fontSize=60)
-<h3 align='center'>안녕하세요, 프론트엔드 개발자 김지연입니다. 🕊</h3>
+<h3 align='center'>안녕하세요, 김지연입니다. 🕊</h3>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer)
 
