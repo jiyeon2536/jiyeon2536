@@ -28,7 +28,7 @@
   <tbody>
 	   <tr>
       <td>온라인 알고리즘 스터디 통합 관리 플랫폼 <br/>
-	      <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;">
+	      <a href="https://github.com/jiyeon2536/AlgoWithMe" style="color: white;">
 	      	<b>ALGOWITHME 알고위드미</b>
 	      </a>
       </td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>친구 놀리기 SNS <br/>
-	      <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;">
+	      <a href="" style="color: white;">
 		      <b>KKAKKA 까까</b>
 	      </a>
       </td>
@@ -48,7 +48,7 @@
     </tr>
 	<tr>
       <td>금융정보 서비스 <br/>
-	      <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4">
+	      <a href="">
 		      <b> CAPYBARA 카피바라 </b> 
 	      </a>
       </td>
