@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>친구 놀리기 SNS <br/>
-	      <a href="" style="color: white;">
+	      <a href="https://github.com/jiyeon2536/kkakka" style="color: white;">
 		      <b>KKAKKA 까까</b>
 	      </a>
       </td>
@@ -48,7 +48,7 @@
     </tr>
 	<tr>
       <td>금융정보 서비스 <br/>
-	      <a href="">
+	      <a href="https://github.com/jiyeon2536/project-capybara">
 		      <b> CAPYBARA 카피바라 </b> 
 	      </a>
       </td>
