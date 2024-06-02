@@ -27,19 +27,31 @@
   </thead>
   <tbody>
 	   <tr>
-      <td>알고리즘 스터디 플랫폼 <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;"><b>Algowithme</b></a></td>
+      <td>온라인 알고리즘 스터디 통합 관리 플랫폼 <br/>
+	      <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;">
+	      	<b>ALGOWITHME 알고위드미</b>
+	      </a>
+      </td>
       <td>프론트엔드 개발</td>
       <td>2024.04.08 ~ 05.20</td>
       <td></td>
     </tr>
     <tr>
-      <td>친구 놀리기 SNS <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;"><b> KKAKKA 까까</b></a></td>
+      <td>친구 놀리기 SNS <br/>
+	      <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;">
+		      <b>KKAKKA 까까</b>
+	      </a>
+      </td>
       <td>프론트엔드 개발, 서기</td>
       <td>2024.01.08 ~ 02.16</td>
       <td>SSAFY 공통 프로젝트 우수상 🥈</td>
     </tr>
-	  <tr>
-      <td>금융정보 서비스 <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4"><b> CAPYBARA 카피바라 </b> </a></td>
+	<tr>
+      <td>금융정보 서비스 <br/>
+	      <a href="https://bustling-trade-bc8.notion.site/CAPYBARA-1793a58e7d8b4cc6a26c844cd16d2a0e?pvs=4">
+		      <b> CAPYBARA 카피바라 </b> 
+	      </a>
+      </td>
       <td>프론트엔드 개발</td>
       <td>2023.11.15 ~ 11.24</td>
       <td>SSAFY 관통 프로젝트 우수상 🥈</td>
