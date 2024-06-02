@@ -27,7 +27,7 @@
   </thead>
   <tbody>
 	   <tr>
-      <td>알고리즘 스터디 통합 플랫폼 <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;"><b>Algowithme</b></a></td>
+      <td>알고리즘 스터디 플랫폼 <a href="https://bustling-trade-bc8.notion.site/KKAKKA-75801f826b634e72ac970286ee780403?pvs=4" style="color: white;"><b>Algowithme</b></a></td>
       <td>프론트엔드 개발</td>
       <td>2024.04.08 ~ 05.20</td>
       <td></td>
