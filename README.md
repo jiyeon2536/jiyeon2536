@@ -1,12 +1,69 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=header&Align=50&fontSize=60)
-<h3 align='center'>자바스크립트 개발자 김지연입니다. </h3>
+<div>자바스크립트 개발자 김지연입니다. </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer)
 
 <img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" /> <img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" /> <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" /> <img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" /> 
 
 
+
+
+# 
+
+<p >
+	
+
+  <a href='https://hits.seeyoufarm.com' style="text-decoration: none; color: inherit;">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false" />
+</a>
+</p>
+  
+
+
+
+<!--
+<div align=center></div>
+
+![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=gotham)  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
+[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)     
+
+<a href="mailto:arlettevarda@gmail.com" style="text-decoration: none; color: inherit;">
+	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
+</a>
+
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/VUETIFY-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">  
+
+**jiyeon2536/jiyeon2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 #
+
+
+
+
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=gotham" style="height: 180px;"/>
+  </a>
+	<a href="https://solved.ac/jiyeon2536/">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536" style="height: 180px;"/>
+  </a>
+</p>
+
 
 ### 최근 진행한 프로젝트
 <table>
@@ -53,60 +110,7 @@
 </table>
 
 #
-
-
-
-
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=jiyeon2536&show_icons=true&theme=gotham" style="height: 180px;"/>
-  </a>
-	<a href="https://solved.ac/jiyeon2536/">
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536" style="height: 180px;"/>
-  </a>
-</p>
-
-# 
-
-<p align="center">
-	
-
-  <a href='https://hits.seeyoufarm.com' style="text-decoration: none; color: inherit;">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false" />
-</a>
-</p>
-  
-
-
-
-<!--
-<div align=center></div>
-
-![Jiyeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon2536&layout=compact&theme=gotham)  
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
-[![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)     
-
-<a href="mailto:arlettevarda@gmail.com" style="text-decoration: none; color: inherit;">
-	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
-</a>
-
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/VUETIFY-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">  
-
-**jiyeon2536/jiyeon2536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
 
 ### 기술
 <table>
