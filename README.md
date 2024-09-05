@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=header&Align=50&fontSize=60)
+<h3 align='center'>자바스크립트 개발자 김지연입니다. 🕊</h3>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer)
+
 <img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" /> <img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" /> <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" /> <img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" /> <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 
 
