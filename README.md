@@ -1,16 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=header&Align=50&fontSize=60)
-<h3 align='center'>안녕하세요, 김지연입니다. 🕊</h3>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer)
-
-
-
-<a href="mailto:jiyeon2536@khu.ac.kr" style="text-decoration: none; color: inherit;">
+<a href="mailto:arlettevarda@gmail.com" style="text-decoration: none; color: inherit;">
 	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
 </a>
-<a href="https://bustling-trade-bc8.notion.site/frontend-developer-f3babfab4e964102a29f92444fb7b473?pvs=4" style="text-decoration: none; color: inherit;">
-	<img src="https://img.shields.io/badge/-Notion-202020?style=for-the-badge&logo=notion" height="25" />
-</a>
+
 
 
 #
