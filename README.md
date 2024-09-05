@@ -2,6 +2,22 @@
 
 <img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" /> <img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" /> <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" /> <img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" /> 
 
+#
+
+<h3>🕊️ 교육</h3>
+<div>SeSAC 웹 풀스택 과정 | 2024.08 ~ 현재</div>
+<div>삼성 청년 SW아카데미 | 2023.07 ~ 2024.06 </div>
+<div>경희대학교 학사 영문학 | 2016.03 ~ 2022.02 </div>
+
+
+<h3>🕊️ 수상</h3>  
+<div>공통 프로젝트 우수상 | 2024.02.16 | 삼성전자주식회사</div>
+<div>관통 프로젝트 우수상 | 2023.11.14 | 삼성전자주식회사</div>
+
+<h3>🕊️ 자격증</h3>
+<div>SQL 개발자 자격증 취득 | 2023.12.15 | 데이터산업진흥원</div>
+
+# 
 
 <p>
   <a href='https://hits.seeyoufarm.com' style="text-decoration: none; color: inherit;">
@@ -15,7 +31,6 @@
 <!--
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=header&Align=50&fontSize=60)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer)
 
 <div align=center></div>
