@@ -6,7 +6,7 @@
 
 <h3>🕊️ 프로젝트</h3>
 <div><a href="https://github.com/jiyeon2536/AlgoWithMe" style="color: white;"><b>알고위드미</b></a> - 스터디 통합플랫폼  | 2024.04.08 ~ 05.20 | 프론트엔드 </div>
-<div><a href="https://github.com/jiyeon2536/witt" style="color: white;"><b>까까</b></a> - 게임 중인 친구 놀리는 SNS  | 2024.01.08 ~ 02.16 | 프론트엔드 </div>
+<div><a href="https://github.com/jiyeon2536/kkakka" style="color: white;"><b>까까</b></a> - 게임 중인 친구 놀리는 SNS  | 2024.01.08 ~ 02.16 | 프론트엔드 </div>
 <div><a href="https://github.com/jiyeon2536/project-capybara" style="color: white;"><b>카피바라</b></a> - 금융정보 웹사이트 | 2023.11.15 ~ 11.24 | 프론트엔드 </div>
 
 
