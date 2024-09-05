@@ -1,7 +1,4 @@
-<a href="mailto:arlettevarda@gmail.com" style="text-decoration: none; color: inherit;">
-	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
-</a>
-
+<img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" /> <img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" /> <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" /> <img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" /> <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 
 
 #
@@ -67,6 +64,9 @@
 # 
 
 <p align="center">
+	
+
+
   <a href='https://hits.seeyoufarm.com' style="text-decoration: none; color: inherit;">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false" />
 </a>
@@ -84,6 +84,9 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 [![Jiyeon's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon2536)](https://solved.ac/jiyeon2536/)     
 
+<a href="mailto:arlettevarda@gmail.com" style="text-decoration: none; color: inherit;">
+	<img src="https://img.shields.io/badge/-gmail-202020?style=for-the-badge&logo=gmail" height="25" />
+</a>
 
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/VUETIFY-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">  
 
