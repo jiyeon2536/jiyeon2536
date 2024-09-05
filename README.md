@@ -70,7 +70,6 @@
 
 <p align="center">
 	
-<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 
   <a href='https://hits.seeyoufarm.com' style="text-decoration: none; color: inherit;">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon2536%2Fhit-counter&count_bg=%233BB86F&title_bg=%2375C088&icon=&icon_color=%23490F0F&title=hits&edge_flat=false" />
@@ -145,6 +144,8 @@ Here are some ideas to get you started:
 			<img src="https://img.shields.io/badge/-Tailwind-202020?style=for-the-badge&logo=tailwindcss" height="25" />
 			  <img src="https://img.shields.io/badge/-React_Query-202020?style=for-the-badge&logo=reactquery" height="25" />
 			<img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
+   <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
+
 			</td>
 		 </tr>
 	 </tbody>
