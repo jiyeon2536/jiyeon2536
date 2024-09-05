@@ -4,6 +4,14 @@
 
 #
 
+<h3>🕊️ 프로젝트</h3>
+<div><a href="https://github.com/jiyeon2536/AlgoWithMe" style="color: white;"><b>알고위드미</b></a> - 스터디 통합플랫폼  | 2024.04.08 ~ 05.20 | 프론트엔드 </div>
+<div><a href="https://github.com/jiyeon2536/witt" style="color: white;"><b>까까</b></a> - 게임 중인 친구 놀리는 SNS  | 2024.01.08 ~ 02.16 | 프론트엔드 </div>
+<div><a href="https://github.com/jiyeon2536/project-capybara" style="color: white;"><b>카피바라</b></a> - 금융정보 웹사이트 | 2023.11.15 ~ 11.24 | 프론트엔드 </div>
+
+
+
+
 <h3>🕊️ 교육</h3>
 <div>SeSAC 웹 풀스택 과정 | 2024.08 ~ 현재</div>
 <div>삼성 청년 SW아카데미 | 2023.07 ~ 2024.06 </div>
@@ -12,7 +20,8 @@
 
 <h3>🕊️ 수상</h3>  
 <div>공통 프로젝트 우수상 | 2024.02.16 | 삼성전자주식회사</div>
-<div>1학기 프로젝트 우수상 | 2023.11.14 | 삼성전자주식회사</div>
+<div>1학기 프로젝트 우수상 | 2023.11.24 | 삼성전자주식회사</div>
+
 
 <h3>🕊️ 자격증</h3>
 <div>SQL 개발자 | 2023.12.15 | 데이터산업진흥원</div>
@@ -63,6 +72,7 @@ Here are some ideas to get you started:
 
 #
 
+<div>ChatGPT로 쓰레기 분류 <a href="https://github.com/jiyeon2536/kkakka" style="color: white;"><b>WITT</b></a> | 프론트엔드 </div>
 
 
 
